@@ -20,8 +20,8 @@ Let's wait and see.
             不敬礼
             -------------王拿衣，2017年三月五号，青岛
 # IDE & MCU's model selected
-IDE : keil uVersion4(ARM version)
-MCU model: STM32,detail(which i'm using):STM32F103C8
+##IDE : keil uVersion4(ARM version)
+##MCU model: STM32,detail(which i'm using):STM32F103C8
 # Join the Project/加入此项目
 If you wanna develop with me, note these prerequisities  
 如有兴趣，注意以下前提要素  
