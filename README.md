@@ -22,15 +22,16 @@ Let's wait and see.
 # IDE & MCU's model selected
 IDE : keil uVersion4(ARM version)
 MCU model: STM32,detail(which i'm using):STM32F103C8
-# Join the Project
-If you want develop with me,note these prerequisities,
-A.Knowledgement
-1.Master C language
-2.Done some stuff with assembly language.
-3.Basic signal & circuit knowledgement.
-4.At least comprehended plainly in Computer Organization.
-5.Basic knowledge about model-aircraft
-B.Development Stuff
-1.A material Microcontroller Board for test.
-2.Other meterial components.
-3.A burn-in tool,which is to download program from your computer to the chip.
+# Join the Project/加入此项目
+If you want develop with me,note these prerequisities
+如有兴趣，注意以下前提要素
+A.Knowledgement/知识
+1.Master C language/精通C语言
+2.Done some stuff with assembly language./用汇编写过一些东西
+3.Basic signal & circuit knowledgement./信号、电路知识基础
+4.At least comprehended plainly in Computer Organization./对计算机组成至少有个浅显的了解
+5.Basic knowledge about model-aircraft/航模的基础知识
+B.Development/开发需要
+1.A material Microcontroller Board for test./一个微控制器板子用来测试
+2.Other meterial components./其它实体的元器件
+3.A burn-in tool,which is to download program from your computer to the chip./烧写工具，用来你的程序从电脑下载到芯片
