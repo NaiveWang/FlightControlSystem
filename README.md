@@ -24,19 +24,19 @@ Let's wait and see.
 # IDE & MCU's model selected
 ##IDE : keil uVersion4(ARM version)
 ##MCU model: STM32,detail(which i'm using):STM32F103C8
-# Join the Project/加入此项目
-If you're interested in getting on board, please check out these prerequisities  
-如有兴趣，注意以下前提要素  
-##A.Knowledgement/知识  
-###1.Mastered C language/精通C语言  
-###2.Already achieved some functions with the assembly language./用汇编写过一些东西  
-###3.Basic signal & circuit knowledge./信号、电路知识基础  
-###4.Have a basic understanding if Computer Organization./对计算机组成至少有个浅显的了解  
-###5.Basic knowledge about model-aircraft/航模的基础知识  
-##B.Development Requirements/开发需要  
-###1.A material Microcontroller Board for testing./一个微控制器板子用来测试  
-###2.Other meterial components*./其它实体的元器件  
-###3.A burn-in tool for downloading program from your computer to the chip./烧写工具，用来你的程序从电脑下载到芯片  
+# Join the Project
+If you're interested in getting on board, please check out these prerequisities    
+##A.Prerequisities  
+###1.Mastered C language  
+###2.Already achieved some functions with the assembly language. 
+Familiar with MIPS/ARMv7 instruction set would be better.
+###3.Basic signal & circuit knowledge.  
+###4.Have an advanced understanding of Computer Organization.  
+###5.Basic knowledge about model-aircraft  
+##B.Development Requirements  
+###1.A material Microcontroller Board for testing.  
+###2.Other meterial components*.  
+###3.A burn-in tool for downloading program from your computer to the chip.  
 ##*Fundamental Component Requirements during Development
 for testing if your corresponding functional module's running properly.
 ###A whole set of brushless motor & it's driver(electronic speed regulator、battery pack involved)
