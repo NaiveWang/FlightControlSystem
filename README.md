@@ -35,5 +35,13 @@ If you're interested in getting on board, please check out these prerequisities
 ###5.Basic knowledge about model-aircraft/航模的基础知识  
 ##B.Development Requirements/开发需要  
 ###1.A material Microcontroller Board for testing./一个微控制器板子用来测试  
-###2.Other meterial components./其它实体的元器件  
+###2.Other meterial components*./其它实体的元器件  
 ###3.A burn-in tool for downloading program from your computer to the chip./烧写工具，用来你的程序从电脑下载到芯片  
+##*Fundamental Component Requirements during Development
+for testing if your corresponding module's running properly.
+###A whole set of brushless motor & it's driver(electronic speed regulator、battery pack involved)
+###A set of remote controller
+###A G-sensor module
+###Alternative Components
+####A voltage module
+####A display module
