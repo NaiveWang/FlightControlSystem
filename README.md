@@ -5,7 +5,7 @@ Before I post this project, I've made a Quadricopter, which is controlled by APM
 all you have to do is having some integrated compoments and match them with wiring signal cables correctly,then you can "Go Sky".    
 So when I've "done" the job, when the motor spun successfully, I didn't feel much excited about it : I've done
 nothing about the actual development at all.What's more, I didn't have ability to deal with it that time.   
-But now, I think I could handle it-----Develop a embedded system to control a Quadricopter, that's the project's final goal.
+But now, I think I could handle it-----Developing an embedded system to control a Quadricopter, that's the project's final goal.
 
 Let's wait and see.
 
